@@ -1,0 +1,9 @@
+langgraph>=0.2
+langchain>=0.2
+langchain-openai>=0.1
+langchain-community>=0.2
+pydantic>=2
+faiss-cpu>=1.8
+pypdf>=4
+unstructured>=0.14
+python-dotenv>=1.0
